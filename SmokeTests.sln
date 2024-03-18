@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmokeTests", "SmokeTests\SmokeTests.csproj", "{BFF700E8-7051-42BD-8D31-E6231D757214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFF700E8-7051-42BD-8D31-E6231D757214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF700E8-7051-42BD-8D31-E6231D757214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF700E8-7051-42BD-8D31-E6231D757214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF700E8-7051-42BD-8D31-E6231D757214}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12D9AE5D-B940-4433-B3FA-66338A4BAD8B}
+	EndGlobalSection
+EndGlobal
