@@ -1,3 +1,4 @@
+# AutomatedTests-3DGameKit
 Purpose of this repository is to demonstrate sample automated tests implemented using the GameDriver Tool within the Unity. Tests are configured for the project 'The Explorer: 3D Game Kit' available at: https://learn.unity.com/project/3d-game-kit. In order to set up the test environment, it is necessary to configure Game Driver, which is available at: https://gamedriver.io/.
 
 Important notice is that the code wasn't created in the most effective way; it was more about showcasing different Game Driver and NUnit possibilities.
